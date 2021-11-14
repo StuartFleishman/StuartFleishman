@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with landing my first job
 - 💬 Ask me about Ruby On Rails
 - 📫 How to reach me: Stuart.A.Fleishman@gmail.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning how to DayTrade
 
 Just deployed my first live website via Netlify. It's an e-commerce store built with Next.JS & MongoDB https://elastic-goodall-0b9ea1.netlify.app/
