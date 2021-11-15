@@ -6,7 +6,7 @@ I have a strong knowledge of JavaScript, React.JS and Redux. Together these thre
 
 My backend engineer training is in Ruby on Rails & Sinatra. Basic knowledge of the web: REST apis, HTTP requests, MVC, SQL, CRUD.
 
-Since graduating from Flatiron I have built an e-commerce store using Next.JS for the frontend and MongoDB for the backend. Material-UI was also implemented for CSS. Tech Skills:
+Since graduating from Flatiron I have built an e-commerce store using Next.JS for the frontend and MongoDB for the backend. Material-UI was also implemented for CSS. Tech Skills...
 language: Ruby,
 framework: Ruby on Rails,
 backend: Node.JS,
@@ -17,7 +17,7 @@ dataBase: Firebase,
 framework: Next.JS,
 dataBase: MongoDB,
 framework: TailWindCSS,
-library: Materia-UI,
+library: Materia-UI
 
 
 
