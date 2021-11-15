@@ -1,4 +1,4 @@
-### Hey how are ya?! I'm Stuart and I like to code. 👋
+
 
 Hi! My name is Stuart and I am Software Engineer with a certificate from Flatiron’s Full-Stack Web Development course.
 
