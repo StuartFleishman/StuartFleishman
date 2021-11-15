@@ -8,7 +8,6 @@ My backend engineer training is in Ruby on Rails & Sinatra. Basic knowledge of t
 
 Since graduating from Flatiron I have built an e-commerce store using Next.JS for the frontend and MongoDB for the backend. Material-UI was also implemented for CSS.
 const techSkills = 
-{
 language: Ruby,
 framework: Ruby on Rails,
 backend: Node.JS,
@@ -20,7 +19,6 @@ framework: Next.JS,
 dataBase: MongoDB,
 framework: TailWindCSS,
 library: Materia-UI,
-}
 const hireStu = name => {
 return`${name} you're hired!`
 }
