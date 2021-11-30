@@ -1,27 +1,13 @@
 
+Hello and Welcome!
+I'm Stuart, a software engineer working in JavaScript, React, Redux, Next.JS, MongoDB and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
 
-Hi! My name is Stuart and I am Software Engineer with a certificate from Flatiron’s Full-Stack Web Development course.
+I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges.
 
-I have a strong knowledge of JavaScript, React.JS and Redux. Together these three things allow me to implement amazing frontend experiences.
-
-My backend engineer training is in Ruby on Rails & Sinatra. Basic knowledge of the web: REST apis, HTTP requests, MVC, SQL, CRUD.
-
-Since graduating from Flatiron I have built an e-commerce store using Next.JS for the frontend and MongoDB for the backend. Material-UI was also implemented for CSS. Tech Skills...
-language: Ruby,
-framework: Ruby on Rails,
-backend: Node.JS,
-language: SQL,
-language: Javascript,
-library: React.JS,
-dataBase: Firebase,
-framework: Next.JS,
-dataBase: MongoDB,
-framework: TailWindCSS,
-library: Materia-UI
+Since graduating from Flatiron I have built an e-commerce store using Next.JS for the frontend and MongoDB for the backend. Material-UI was also implemented for CSS. 
 
 
-
-- 🔭 I’m currently working on a CryptoCurrency App
+- 🔭 I’m currently working on https://github.com/StuartFleishman/nft_marketplace
 - 🌱 I’m currently learning Next.JS, MongoDB, Python, Algorithms & Data Structures
 - 👯 I’m looking to collaborate on projects that can positivly help society
 - 🤔 I’m looking for help with landing my first job
@@ -30,4 +16,6 @@ library: Materia-UI
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning how to DayTrade
 
-Just deployed my first live website via Netlify. It's an e-commerce store built with Next.JS & MongoDB https://elastic-goodall-0b9ea1.netlify.app/
+Deployed sites
+Amazen
+https://elastic-goodall-0b9ea1.netlify.app/
